@@ -18,12 +18,12 @@ and try again.
 
 I'm using zenity to create a simple GUI to start and stop the video capturing.
 
-![alt text](/screenShot.png)
+![alt text](/images/screenShot.png)
 
 
-![alt text](/screen1.png)
+![alt text](/images/screen1.png)
 
 
-![alt text](/screen2.png)
+![alt text](/images/screen2.png)
 
 
